@@ -1,1 +1,1 @@
-Example of version control workflo
+Example of version control workflow.
